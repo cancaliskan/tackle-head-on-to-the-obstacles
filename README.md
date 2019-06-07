@@ -5,7 +5,7 @@ Car is routed through the phone via Bluetooth. The car shows the distance to the
 
 ## Requirements
 
- - Arduino Uno
+ - Arduino Mega
  - HC-06
  - HC-SR04 (2)
  - Arduino Lcd Display
