@@ -17,6 +17,6 @@ Car is routed through the phone via Bluetooth. The car shows the distance to the
 
 ## Images
 
-![enter image description here]([![image](https://i.hizliresim.com/kMYd3W.gif)](https://hizliresim.com/kMYd3W))
+![enter image description here](https://github.com/cancaliskan/tackle-head-on-to-the-obstacles/blob/master/Docs/gif.gif)
 
 ![enter image description here](https://raw.githubusercontent.com/cancaliskan/tackle-head-on-to-the-obstacles/master/Docs/pic.jpg)
